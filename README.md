@@ -1,6 +1,6 @@
-# flutter_unity_widget_example
+# flutter_unity_widget ARKIT DEMO
 
-Demonstrates how to use the flutter_unity_widget plugin.
+Demonstrates how to use the flutter_unity_widget plugin with Unity3D ARKIT using the Unity Foundation Demo.
 
 ## Run the sample on Android
 
