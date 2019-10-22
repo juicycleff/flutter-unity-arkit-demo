@@ -14,9 +14,9 @@ Demonstrates how to use the flutter_unity_widget plugin with Unity3D ARKIT using
      Be sure you use at least Unity version 2019.3 or up.
      
   2. open ios/Runner.xcworkspace (workspace!, not the project) in Xcode and add the exported project in the workspace root (with a right click in the Navigator, not on an item -> Add Files to "Runner" -> add the UnityExport/Unity-Iphone.xcodeproj file
-  <img src="../workspace.png" width="400" />
+  <img src="https://github.com/snowballdigital/flutter-unity-view-widget/blob/master/workspace.png?raw=true" width="400" />
   
   3. Select the Unity-iPhone/Data folder and change the Target Membership for Data folder to UnityFramework
-  <img src="../change_target_membership_data_folder.png" width="400" /> 
+  <img src="https://github.com/snowballdigital/flutter-unity-view-widget/blob/master/change_target_membership_data_folder.png?raw=true" width="400" /> 
   
-  4. `flutter run`
+  1. `flutter run`
